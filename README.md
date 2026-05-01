@@ -24,7 +24,9 @@ At the deeper layer, Arkfire is a knowledge-ark project. Its long-term aim is to
 
 ## Status
 
-Arkfire is currently in early framework development. Initial materials will focus on core principles, learning modules, activity designs, and curriculum structure.
+Arkfire is currently in early framework development. At this stage, it is a framework for building curriculum modules rather than a completed lesson sequence.
+
+Initial materials will focus on core principles, learning modules, activity designs, and curriculum structure.
 
 ## License
 
