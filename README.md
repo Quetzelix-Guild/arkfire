@@ -28,6 +28,11 @@ Arkfire is currently in early framework development. At this stage, it is a fram
 
 Initial materials will focus on core principles, learning modules, activity designs, and curriculum structure.
 
+## Related Repositories
+
+- [variarchism](https://github.com/Quetzelix-Guild/variarchism) — main doctrine, charter, and civilizational framework.
+- [inductive_priors](https://github.com/Quetzelix-Guild/inductive_priors) — dense notes, conceptual priors, compressed modules, and machine-readable reference material.
+
 ## License
 
 Unless otherwise noted, this repository is licensed under Creative Commons Attribution-ShareAlike 4.0 International.
