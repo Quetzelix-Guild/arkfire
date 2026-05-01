@@ -4,7 +4,7 @@ Arkfire is a STEM-adjacent, play-driven learning framework designed to help chil
 
 At the deeper layer, Arkfire is a knowledge-ark project: a way to preserve the foundational operating skills of civilization in the muscle memory of the next generation.
 
-The stated objectives are: 
+The current objectives of the open-source framework are:
 
 - Cultivate tangible problem-solving skills to build confidence through imaginative play and physical game mechanics.
   
